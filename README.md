@@ -19,5 +19,5 @@ allprojects {
 step2. Add the dependencies
 
 dependencies {
-    compile 'com.github.keller-zhou:CameraPlugin:v1.0.0'
+    compile 'com.github.keller-zhou:ALGCamera:v1.0.1'
 }
